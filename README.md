@@ -1,4 +1,2 @@
 # Translations for DimCast
-yeah so its json
-
-if you contribute i will give you 10 million usd
+this isnt even implemented into the site yet so dont even bother
